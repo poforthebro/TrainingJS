@@ -1,0 +1,2 @@
+# TrainingJS
+Training that javascript
